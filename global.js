@@ -22,7 +22,7 @@ module.exports = {
     //    port:'5432',
     //    database: 'qldd'
     //},
-    host: 'https://kcpm-attendant-checking-nhom06.herokuapp.com',
+    host: 'https://kcpm-attendant-checking-06.herokuapp.com',
     email_setting: {
         host: 'smtp.office365.com', // Office 365 server
         port: 587, // secure SMTP
